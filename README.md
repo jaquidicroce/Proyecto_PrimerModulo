@@ -1,6 +1,6 @@
 ### Análisis de Campañas de Marketing - Primer Proyecto de Módulo
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pngtree.com%2Fso%2Fan%25C3%25A1lisis-de-datos&psig=AOvVaw2qe0HAk7g3lZxoowy3ElRg&ust=1730715180657000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj-xM72v4kDFQAAAAAdAAAAABAE)
+![Primer Proyecto de Módulo]([https://es.pngtree.com/freepng/computer-data-analysis-illustration_4588789.html])
 
 #### Descripción
 ##### Este es el primer proyecto del módulo, en el cual se realiza un análisis detallado de las campañas de marketing de una empresa en Malasia. El objetivo principal del proyecto es explorar y analizar los datos de las campañas publicitarias para comprender mejor el rendimiento de los distintos canales de marketing, la relación entre presupuesto y gasto, y el impacto en términos de retorno de inversión (ROI) y conversiones.
